@@ -6,7 +6,7 @@ https://jrenc.azurewebsites.net/api/signature?code=zHZRCCItO-yB8t7d2KyitELFDwADn
 
 ---
 
-# Digital Signature API
+# GenLineAnimation API
 
 This project is a simple Node.js API that generates SVG digital signatures based on provided text input. The signatures can be customized with various options, including animation, speed, and color.
 
@@ -104,3 +104,6 @@ https://jrenc.azurewebsites.net/api/signature?code=zHZRCCItO-yB8t7d2KyitELFDwADn
 
 Contributions are welcome! Please feel free to submit a Pull Request or raise an Issue if you find a bug or have a feature request.
 
+## Thank
+
+Technical realization and inspiration form [@pate1kiran](https://x.com/pate1kiran) and [Signature animation](https://codepen.io/kiranpate1/full/ExBpaeW)
