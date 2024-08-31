@@ -97,7 +97,8 @@ You can deploy this application to Azure Functions or any other Node.js-compatib
 
 ### Azure Function URL Example:
 ```
-https://your-function-app.azurewebsites.net/api/signature?code=<Your_Function_Code>&name=JohnDoe
+[https://your-function-app.azurewebsites.net/api/signature?code=<Your_Function_Code>&name=JohnDoe](https://jrenc.azurewebsites.net/api/signature?code=zHZRCCItO-yB8t7d2KyitELFDwADnXIotkeeIQL3juyNAzFucnyrWA%3D%3D&name=JohnDoe&animate=true&speed=1&color=%23000000
+)
 ```
 
 ## Contributing
